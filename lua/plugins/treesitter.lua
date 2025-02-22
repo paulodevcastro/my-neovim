@@ -1,3 +1,4 @@
+-- Melhora a ilustração e letras dos códigos
 return {
   "nvim-treesitter/nvim-treesitter",
   dependencies = {

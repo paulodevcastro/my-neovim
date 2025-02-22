@@ -1,3 +1,4 @@
+-- autocompleta funções, cochetes (listas), entre outros
 return {
   "windwp/nvim-autopairs",
   event = { "InsertEnter" },
