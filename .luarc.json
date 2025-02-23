@@ -3,5 +3,8 @@
         "vim",
         "opts",
         "null_ls"
+    ],
+    "diagnostics.disable": [
+        "unused-local"
     ]
 }
